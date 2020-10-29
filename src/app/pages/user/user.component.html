@@ -1,0 +1,7 @@
+<ul>
+    <li *ngFor="let user of users">
+        <p>{{user.nom}} {{user.prenom}}</p>
+        <button (click)="supprimer(user.id)">supprimer</button>
+    </li>
+</ul>
+<a routerLink="/new">New User</a>

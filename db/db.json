@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Dupont",
+      "prenom": "Toto"
+    },
+    {
+      "id": 2,
+      "nom": "Dupont",
+      "prenom": "Tutu"
+    },
+    {
+      "id": 3,
+      "nom": "Dupont",
+      "prenom": "Titi"
+    },
+    {
+      "nom": "Dupont",
+      "prenom": "Toutou",
+      "id": 6
+    },
+    {
+      "nom": "DuTrou",
+      "prenom": "dudu",
+      "id": 10
+    }
+  ],
+  "arbres": [
+    {
+      "id": 1,
+      "type": "Oak"
+    }
+  ]
+}
